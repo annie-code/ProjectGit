@@ -1,1 +1,2 @@
 My git project
+Added a new line
